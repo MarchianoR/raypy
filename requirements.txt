@@ -2,5 +2,4 @@ numpy
 scipy
 matplotlib
 sympy
-sys
 ipywidgets
